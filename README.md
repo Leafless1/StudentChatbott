@@ -1,2 +1,0 @@
-# StudentChatbott
-Student Advisory Chatbot
